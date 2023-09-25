@@ -1,2 +1,2 @@
 # Codsoft
-internship project
+internship project, calculator
